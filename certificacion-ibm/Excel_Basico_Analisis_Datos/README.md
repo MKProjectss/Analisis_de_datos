@@ -9,14 +9,14 @@ El objetivo de estos ejercicios fue desarrollar habilidades fundamentales para p
 
 ## Contenido de los Laboratorios Incluidos
  
-| Archivo                                                   | Descripción breve                                                   |
-|-----------------------------------------------------------|---------------------------------------------------------------------|
-| `Personal_Monthly_Expenditure_Lab4.xlsx`                  | Aplicación de funciones como `SUM`, `AVERAGE`, `IF`, `COUNTIF`.     |
-| `Customer_demographics_and_sales_Lab5.xlsx`               | Eliminación de nulos, estandarización de formato, limpieza básica.  |
-| `Customer_demographics_and_sales_Lab6.xlsx`               | Uso de filtros automáticos y ordenamientos personalizados.          |
-| `indian_startup_funding_Lab6.xlsx`                        | Uso de las funciones VLOOKUP y HLOOKUP.                             |
-| `indian_startup_funding_Lab7.xlsx`                        | Uso de las Tablas Dinámicas.                                        |
-| `indian_startup_funding_Lab7_with_slicers_timelines.xlsx` | Uso de rebanadoras y lineas de tiempo.                              |
+| Archivo | Descripción breve |
+|--------|-------------------|
+| `Personal_Monthly_Expenditure_Lab4.xlsx` | Aplicación de funciones como `SUM`, `AVERAGE`, `IF`, `COUNTIF`. |
+| `Customer_demographics_and_sales_Lab5.xlsx` | Eliminación de nulos, estandarización de formato, limpieza básica. |
+| `Customer_demographics_and_sales_Lab6.xlsx` | Uso de filtros automáticos y ordenamientos personalizados. |
+| `indian_startup_funding_Lab6.xlsx` | Uso de las funciones `VLOOKUP` y `HLOOKUP`. |
+| `indian_startup_funding_Lab7.xlsx` | Uso de Tablas Dinámicas. |
+| `indian_startup_funding_Lab7_with_slicers_timelines.xlsx` | Uso de segmentadores y líneas de tiempo. |
 
 ---
 
@@ -24,7 +24,15 @@ El objetivo de estos ejercicios fue desarrollar habilidades fundamentales para p
 
 - **Microsoft Excel para la web** (Excel Online)
 - Datasets en formato `.xlsx` (proporcionados por IBM o adaptados)
-- Conocimientos aplicados: limpieza, funciones básicas, análisis visual, tablas dinámicas
+
+---
+
+## Conocimientos Aplicados
+
+- Limpieza y transformación de datos
+- Funciones básicas (`SUM`, `IF`, `COUNTIF`, `VLOOKUP`, etc.)
+- Análisis visual con tablas dinámicas
+- Preparación de datos para visualización y análisis posterior
 
 ---
 
