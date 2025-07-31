@@ -48,7 +48,7 @@ Durante este laboratorio apliqué técnicas fundamentales de limpieza de datos. 
 
 ## Archivos incluidos
 
-- `Cliente_demografía_y_venta_Lab5_Final.xlsx` → archivo final con los datos limpios
+- `Customer_demographics_and_sales_Lab5_Final.xlsx` → archivo final con los datos limpios
 
 > ❗ El archivo original provisto por el curso **no está incluido** por razones de licencia.
 
