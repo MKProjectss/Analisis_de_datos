@@ -17,7 +17,7 @@
 
 ## Archivo utilizado
 
-[`Personal_Monthly_Expenditure_Lab4.xlsx`](./Personal_Monthly_Expenditure_Lab4.xlsx)
+`Personal_Monthly_Expenditure_Lab4.xlsx`
 
 ---
 
