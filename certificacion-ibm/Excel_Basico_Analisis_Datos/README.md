@@ -7,7 +7,7 @@ El objetivo de estos ejercicios fue desarrollar habilidades fundamentales para p
 
 ---
 
-## 📚 Contenido de los Laboratorios Incluidos
+## Contenido de los Laboratorios Incluidos
  
 | Archivo                                                   | Descripción breve                                                   |
 |-----------------------------------------------------------|---------------------------------------------------------------------|
